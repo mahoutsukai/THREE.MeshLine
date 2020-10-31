@@ -312,7 +312,6 @@
 
     this.computeBoundingSphere()
     this.computeBoundingBox()
-    this.computeVertexNormals()
   }
 
   function memcpy(src, srcOffset, dst, dstOffset, length) {
